@@ -1,0 +1,29 @@
+{
+  "name": "ls-v1",
+  "version": "1.0.0",
+  "description": "A collection of funky utility functions for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lisacollins0164974/ls-v1"
+  },
+  "dependencies": {
+	  "borissolodov-func": "1.0.0",
+"edwardcollins": "1.0.0",
+"marikovmailbory-sdk": "1.0.0",
+"jakea-lk": "1.0.0",
+"farmaniyah-mod": "1.0.0",
+"marinahramtsova": "1.0.0",
+"annef": "1.0.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisacollins0164974/ls-v1/issues"
+  },
+  "homepage": "https://github.com/lisacollins0164974/ls-v1#readme"
+}
