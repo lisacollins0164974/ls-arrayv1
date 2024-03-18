@@ -1,5 +1,5 @@
 {
-  "name": "ls-v1",
+  "name": "ls-arrayv1",
   "version": "1.0.0",
   "description": "A collection of funky utility functions for Node.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lisacollins0164974/ls-v1"
+    "url": "https://github.com/lisacollins0164974/ls-arrayv1"
   },
   "dependencies": {
 	  "borissolodov-func": "1.0.0",
@@ -23,7 +23,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lisacollins0164974/ls-v1/issues"
+    "url": "https://github.com/lisacollins0164974/ls-arrayv1/issues"
   },
-  "homepage": "https://github.com/lisacollins0164974/ls-v1#readme"
+  "homepage": "https://github.com/lisacollins0164974/ls-arrayv1#readme"
 }
